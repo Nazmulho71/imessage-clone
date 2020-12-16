@@ -1,4 +1,4 @@
 # iMessage Clone
 
-this iMessage Clone made with ReactJS/Redux/Firebase.
+this iMessage Clone made with React Redux.
 imessage-clone link:
